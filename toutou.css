@@ -1,0 +1,143 @@
+. {
+    
+}
+body{
+    display: flex;
+   align-content: space-between;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.703);
+    line-height: 19px;
+    font-size: 19px
+    
+    
+    
+    
+}
+*{
+    
+    color: ;
+}
+.Wrapper{
+    
+
+}
+header li{
+    display: inline-block;
+    
+    position: relative;
+}
+header li a:hover{
+    background:blanchedalmond;
+    color: blue;
+}
+
+#Aatterri{
+ display: inline;   
+padding-right: 900px;
+}
+img{
+    
+
+}
+    
+
+h2{
+padding-left: 300px;
+
+    
+}
+h1{
+
+}
+
+p{
+    padding-left: 300px;
+}
+
+.ronde{
+    
+    
+
+    
+
+   
+
+}
+.CC{
+    font-size: medium;
+    font-style: normal;
+    padding-left: 300px;
+    
+}
+.ronde{
+border-radius: 100%;
+width: 400px; ;
+height: 400px; ;
+
+
+}
+.caroussel{
+    display: flexbox;
+    margin: auto;
+    
+    border: 1px solid black;
+    height: 1950px;
+    width: 1330px;
+    
+    align-content: center;
+    
+
+    
+
+    
+}
+#BB{
+padding-left: 300px;    
+
+}
+.images{
+    
+    padding-left: 300px;
+    position: absolute;
+ 
+    
+
+    
+    
+    
+    
+
+}
+#BB{
+    
+
+}
+.into1{
+    padding-left: 300px;
+    
+border-bottom:red 4px groove ;
+}
+.into2{
+    padding-left: 300px;
+    border-bottom: blue 4px groove;
+    
+}
+.into3{
+    padding-left: 300px;
+    border-bottom:green 4px groove ;
+}
+h1{
+    color: white;
+    padding-left:   300px;
+    
+    
+}
+p{
+    padding-left:250px;
+    color: white;
+    font-size: medium;
+    font-style: normal;
+    font-weight:1%;
+
+
+}
